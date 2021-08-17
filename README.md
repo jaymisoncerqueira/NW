@@ -335,3 +335,55 @@ NR-35
 
 
  
+ ## FMEA (Failure Mode and Effect Analysis)
+ 
+* Severidade da falha (IS): classificação que deve considerar questões importantes para a empresa e seus clientes como a segurança do cliente e a proteção ao meio ambiente. Sendo: 
+
+1: Pouco perceptível
+
+2-3: Pouco importante
+
+4-5-6: moderado
+
+7-8: grave
+
+9-10: extremamente grave
+
+* Ocorrência da falha (IO): indica a probabilidade da falha ocorrer. Sendo 1 baixa probabilidade de ocorrência e 10 alta probabilidade de ocorrência. Sendo:
+
+1: remota
+
+2: muito pequena
+
+3: pequena
+
+4-5-6: moderada
+
+7-8: alta
+
+9-10: muito alta
+
+* Detecção da falha (ID): classificação que mostra a probabilidade do problema ser detectado antes da ocorrência, sendo 1 muito provável detectar e 10 nada provável detectar.
+
+1: muito alta
+
+2-3: alta
+
+4-5-6: moderada
+
+7-8: pequena
+
+9: muito pequena
+
+10: remota
+
+* Após essa análise, multiplicamos os três números obtidos para encontrar o índice de risco (NPR), quanto maior for o resultado deste índice, mais crítica será aquela falha. O que significa que uma medida de ação corretiva deve ser tomada o quanto antes para evitar maiores problemas. Sendo assim temos as seguintes faixas para NPR:
+
+1-99: baixo
+
+100-500: moderado
+
+501-1000: alto
+
+![Fmea](https://user-images.githubusercontent.com/87779244/129748524-bda3cf2d-06a0-4fbc-97fc-a2fa895b1666.PNG)
+
